@@ -1,3 +1,5 @@
+![Test_Screen](Test_Screen.png)
+
 # Paramox-Solutions (Inh. Theo Andrup)
 Impressum/Imprint: `//todo`
 
