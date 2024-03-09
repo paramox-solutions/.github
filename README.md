@@ -1,8 +1,6 @@
 # Paramox-Solutions (Inh. Theo Andrup)
 Impressum/Imprint: `//todo`
 
-This is the Github Organisation for the upcoming ParaMox Server Controllpanel. 
-Here we will provide you with the necessary tools like Open Source Integrations (e.g. for WHMCS) or 
-Api Clients for several programming languages. 
-
-
+This is the GitHub organization for the upcoming ParaMox Server Control Panel.
+Here, we will provide you with the necessary tools such as open-source integrations (e.g., for WHMCS) 
+or API clients for various programming languages.
