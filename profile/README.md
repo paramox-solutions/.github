@@ -1,4 +1,4 @@
-![Test_Screen](./Screen_01.png)
+![Test_Screen](https://github.com/paramox-solutions/.github/blob/main/profile/Screen_01.png)
 
 # Paramox-Solutions (Inh. Theo Andrup)
 Impressum/Imprint: `//todo`
